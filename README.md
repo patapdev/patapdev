@@ -1,39 +1,32 @@
 <div align="center">
 
-<h1>Hi <img src="images/Hi.gif" width="40px" />, I'm <a href="https://www.github.com/PaceSomesh">Pace</a>!</h1>
-</div>
+### Hi there 👋 im pat
 
 ```java
-  public class Pace extends Human implements Gamer, Developer {
+  public class pat extends boy, implements Gamer, Developer {
 
 	@Override
 	public String getName() {
-		return "Somesh";
+		return "Patrick";
 	}
 	
 	@Override
 	public List<String> getAliases() {
-		return Arrays.asList("Pace", "PaceSomesh");
+		return Arrays.asList("Patap", "Pat");
 	}
 
         public Pace() {
-        super("Pace", "India");
+        super("Pat", "Australia");
 
-        this.addLanguage("Java", "Python", "Javascript", "Kotlin");
-        this.addExperience("3 Years+(java)", "2years+(python)", "6months+(kotlin)", "1 year (js)", "Total 5 years+");
+        this.addLanguage("Java");
+        this.addExperience("1 Years(java)");
      }
    }
 
 	@Override
 	public String aboutme() {
-		return "I like to play piano" +
+		return "I like to play video games" +
 		"\n" + "I like to code Java";
-	}
-    
-	@Override
-	public void codingStuff() {
-		String[] learning = ["Java", "Node.js / Discord.js", "Python"];
-		String tryingTo = "Make good GUIs in minecraft clients /plugins /mods";
 	}
 	
 } 
@@ -83,19 +76,18 @@ public abstract class Human {
 <!--START_SECTION:waka-->
 
 ```text
-⌚︎ Time Zone: India / GMT + 5:30
+⌚︎ Time zone brisbane : (AEST) or (GMT+10)
 ```
 <!--END_SECTION:waka-->
 <div align="center">
 	
-![PaceCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaceCodes&show_icons=true&theme=vision-friendly-dark)
+!pat1221's GitHub stats](https://github-readme-stats.vercel.app/api?username=pat1221&show_icons=true&theme=vision-friendly-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaceCodes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pat1221)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 </details>
 
-Discord / How to contact me = Pace.#0001
-Do not Try to DM straight it's off L
+Discord= patap#5191
 {"mode":"full","isActive":false}
