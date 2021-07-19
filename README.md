@@ -91,4 +91,3 @@ public abstract class Human {
 </details>
 
 Discord= patap#5191
-{"mode":"full","isActive":false}
