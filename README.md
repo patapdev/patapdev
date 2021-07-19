@@ -16,7 +16,7 @@
 		return Arrays.asList("Patap", "Pat");
 	}
 
-        public Pace() {
+        public Pat() {
         super("Pat", "Australia");
 
         this.addLanguage("Java");
