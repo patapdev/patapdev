@@ -1,21 +1,6 @@
 ### Hi there 👋 im pat
 
-<!--
-**pat1221/pat1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-  public class pat extends male implements Gamer, Developer {
+  public class pat1221 extends Boy implements Gamer, Developer {
 
 	@Override
 	public String getName() {
@@ -24,27 +9,31 @@ Here are some ideas to get you started:
 	
 	@Override
 	public List<String> getAliases() {
-		return Arrays.asList("pat", "patap");
+		return Arrays.asList("Pace", "PaceSomesh");
 	}
 
         public Pace() {
-        super("Pat", "Australia");
+        super("Pace", "India");
 
         this.addLanguage("Java");
         this.addExperience("2 Years(java)");
      }
-   }
+    }
 
 	@Override
 	public String aboutme() {
-		return "i enjoy gaming" +
+		return "I like to play video games" +
 		"\n" + "I like to code Java";
 	}
     
+	@Override
+	public void codingStuff() {
+		String[] learning = ["Java", "Node.js / Discord.js", "Python"];
+		String tryingTo = "Make good GUIs in minecraft clients /plugins /mods";
+	}
 	
-} 
-
-
+	} 
+	
 public abstract class Human {
 
   @Getter private final String username;
@@ -66,4 +55,9 @@ public abstract class Human {
       this.experiences.addAll(experience);
   }
 }
+```
+<div align="center">
+	
+![pat1221's GitHub stats](https://github-readme-stats.vercel.app/api?username=pat1221&show_icons=true&theme=vision-friendly-dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pat1221)](https://github.com/anuraghazra/github-readme-stats)
